@@ -100,6 +100,10 @@ grid on;
 График покажет, как изменяется вероятность ошибочного распознавания (ошибка второго рода) для первого класса в зависимости от дисперсии классов.
 
 
+[Lab_4_-_Raspoznavanie_obrazov_opisyvaemykh_binarnymi_priznakami.pdf](https://github.com/user-attachments/files/17598152/Lab_4_-_Raspoznavanie_obrazov_opisyvaemykh_binarnymi_priznakami.pdf)
+
+
+
 
 
 
